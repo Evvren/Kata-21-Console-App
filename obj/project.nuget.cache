@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tzi9OGJbLVU=",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\Kata21ConsoleApp\\kata21console\\Kata21Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evvren\\.nuget\\packages\\4981.kata21listimplementations\\1.0.0\\4981.kata21listimplementations.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

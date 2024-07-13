@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kata21Console/1.0.0": {
+        "dependencies": {
+          "4981.Kata21ListImplementations": "1.0.0"
+        },
+        "runtime": {
+          "Kata21Console.dll": {}
+        }
+      },
+      "4981.Kata21ListImplementations/1.0.0": {
+        "runtime": {
+          "lib/net8.0/Kata21ClassLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kata21Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "4981.Kata21ListImplementations/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6sus75Ji5pU/iN0w5qx3UzJPqwZiCMIUcvqUhZL50+h7rZzfY8EG6W7Dfy/BM8U+KI3otUpRvr2KgkvV5TMAYw==",
+      "path": "4981.kata21listimplementations/1.0.0",
+      "hashPath": "4981.kata21listimplementations.1.0.0.nupkg.sha512"
+    }
+  }
+}

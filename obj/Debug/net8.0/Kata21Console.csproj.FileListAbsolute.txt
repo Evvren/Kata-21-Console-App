@@ -1,0 +1,17 @@
+C:\Repos\Kata21ConsoleApp\Kata21Console\bin\Debug\net8.0\Kata21Console.exe
+C:\Repos\Kata21ConsoleApp\Kata21Console\bin\Debug\net8.0\Kata21Console.deps.json
+C:\Repos\Kata21ConsoleApp\Kata21Console\bin\Debug\net8.0\Kata21Console.runtimeconfig.json
+C:\Repos\Kata21ConsoleApp\Kata21Console\bin\Debug\net8.0\Kata21Console.dll
+C:\Repos\Kata21ConsoleApp\Kata21Console\bin\Debug\net8.0\Kata21Console.pdb
+C:\Repos\Kata21ConsoleApp\Kata21Console\bin\Debug\net8.0\Kata21ClassLibrary.dll
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Console.csproj.AssemblyReference.cache
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Console.AssemblyInfoInputs.cache
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Console.AssemblyInfo.cs
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Console.csproj.CoreCompileInputs.cache
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Co.00F5B5D2.Up2Date
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Console.dll
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\refint\Kata21Console.dll
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Console.pdb
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\Kata21Console.genruntimeconfig.cache
+C:\Repos\Kata21ConsoleApp\Kata21Console\obj\Debug\net8.0\ref\Kata21Console.dll
